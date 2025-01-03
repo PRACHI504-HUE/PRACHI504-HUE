@@ -12,7 +12,7 @@
 - Data Analysis projects involving **EDA** , **VISUALIZATION**, and **storytelling**.
 - open source projects in python or power bi.
 - ### 📫 How to reach me ...
-- **LinkedIn**: [www.linkedin.com/in/prachi-chindalia-2002psc157]
+- **LinkedIn**: [www.linkedin.com/in/ChindaliaPrachi200225]
 - **Email**: chindaliaprachi@gamil.com
 - ### 😄 Pronouns: ...
 - she/ her
