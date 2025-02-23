@@ -16,8 +16,6 @@
 - **Email**: chindaliaprachi@gamil.com
 - ### 😄 Pronouns: ...
 - she/ her
-- ### ⚡ Fun fact: ..
-- i hold degree in mathematics and i did a course in DS AND ML. (IS THIS FUN FACT?)
 - ✨ **this README is a work in progress! i'll keep updating as i grow.**✨
 
 <!---
